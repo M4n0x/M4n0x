@@ -4,11 +4,19 @@ Hi, I'm **Steve**, a fullstack developer at [Liip](https://www.liip.ch) in Lausa
 
 ## Things I make
 
-- [**StableBar**](https://github.com/Seb-GRAF/StableBar): a native menu bar for macOS (co-maintainer)
-- [**Apartment Search**](https://github.com/M4n0x/flat-scrapping): six Swiss rental sites on one map
-- [**Multi-pass**](https://github.com/M4n0x/multi-pass): site passwords by rule, unlocked with Touch ID
-- [**Akamai Debug Helper**](https://github.com/M4n0x/akamai-debug-extension): why the cache said no
-- [**Fodmap Lens**](https://github.com/M4n0x/fodmap-lens): scan a barcode, get the FODMAP score
+<a href="https://github.com/Seb-GRAF/StableBar" title="StableBar: a native menu bar for macOS (I co-maintain it)"><img src="./assets/icons/stablebar.svg" width="19.8%" alt="StableBar: a native menu bar for macOS, which I co-maintain"></a><a href="https://github.com/M4n0x/flat-scrapping" title="Apartment Search: six Swiss rental sites on one map"><img src="./assets/icons/apartment-search.svg" width="19.8%" alt="Apartment Search: six Swiss rental sites on one map"></a><a href="https://github.com/M4n0x/multi-pass" title="Multi-pass: site passwords by rule, unlocked with Touch ID"><img src="./assets/icons/multi-pass.svg" width="19.8%" alt="Multi-pass: site passwords by rule, unlocked with Touch ID"></a><a href="https://github.com/M4n0x/akamai-debug-extension" title="Akamai Debug Helper: why the cache said no"><img src="./assets/icons/akamai-debug.svg" width="19.8%" alt="Akamai Debug Helper: why the cache said no"></a><a href="https://github.com/M4n0x/fodmap-lens" title="Fodmap Lens: scan a barcode, get the FODMAP score"><img src="./assets/icons/fodmap-lens.svg" width="19.8%" alt="Fodmap Lens: scan a barcode, get the FODMAP score"></a>
+
+## Also known for
+
+<img src="./assets/many-hands.svg" width="210" align="left" hspace="20" vspace="8" alt="Steve with six arms, holding a whisk, a slice of cheesecake, a wrench, headphones, a laptop and a ski">
+
+- fixing the CI before anyone notices
+- baking cheesecake for the whole office
+- playing French indie a bit too loud
+- lunch runs, bike rides and ski days
+- being nice to robots, just in case
+
+<br clear="left">
 
 <img src="./assets/lake.svg" width="100%" alt="">
 
