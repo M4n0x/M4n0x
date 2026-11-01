@@ -8,15 +8,7 @@ Hi, I'm **Steve**, a fullstack developer at [Liip](https://www.liip.ch) in Lausa
 
 ## Also known for
 
-<img src="./assets/many-hands.svg" width="210" align="left" hspace="20" vspace="8" alt="Steve with six arms, holding a whisk, a slice of cheesecake, a wrench, headphones, a laptop and a ski">
-
-- fixing the CI before anyone notices
-- baking cheesecake for the whole office
-- playing French indie a bit too loud
-- lunch runs, bike rides and ski days
-- being nice to robots, just in case
-
-<br clear="left">
+<img src="./assets/also-known-for.svg" width="100%" alt="Steve with six arms, holding a whisk, a slice of cheesecake, a wrench, headphones, a laptop and a ski. Also known for: fixing the CI before anyone notices; baking cheesecake for the whole office; playing French indie a bit too loud; lunch runs, bike rides and ski days; being nice to robots, just in case.">
 
 <img src="./assets/lake.svg" width="100%" alt="">
 
