@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 56" width="680" height="56" role="img" aria-label="Lake Geneva with a paddle steamer and a sailboat">
+  <defs>
+    <clipPath id="frame"><rect width="680" height="56" rx="8"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="680" height="56" fill="#7FA6CF"/>
+    <path d="M30,16 h30 M250,34 h40 M400,16 h26 M520,42 h34 M610,24 h24" stroke="#F4EDE1" stroke-width="3" stroke-linecap="round"/>
+    <path d="M128,32 h58 l-7,9 h-44 Z" fill="#F4EDE1"/>
+    <rect x="140" y="23" width="32" height="9" fill="#F4EDE1"/>
+    <rect x="150" y="14" width="5" height="9" fill="#DD6F51"/><rect x="162" y="14" width="5" height="9" fill="#DD6F51"/>
+    <path d="M147,32 a8,8 0 0 1 16,0 Z" fill="#2A2420"/>
+    <path d="M462,42 h22 l-4,5 h-14 Z" fill="#2A2420"/><path d="M473,40 V22 L486,40 Z" fill="#F4EDE1"/>
+  </g>
+</svg>
